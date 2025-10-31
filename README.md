@@ -14,9 +14,9 @@ Each project adds something new: a technique, a perspective, or a clearer way to
 ---
 
 📊 Projects
-Customer Behavior Analysis – Python · SQL · Power BI
-Hotel Revenue Analysis – Excel · SQL · Power BI
-Snapchat Reviews Analysis – Excel · SQL · Power BI
+- Customer Behavior Analysis – Python · SQL · Power BI
+- Hotel Revenue Analysis – Excel · SQL · Power BI
+- Snapchat Reviews Analysis – Excel · SQL · Power BI
 
 ---
 

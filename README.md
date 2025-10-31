@@ -1,11 +1,16 @@
-👋 Hi, I'm Abdallah AMR
 
-Operations Research graduate from Cairo University, curious about how data reveals patterns and supports smarter decisions.  
-Each project adds something new: a technique, a perspective, or a clearer way to communicate insights.
+<p align="center">
+  <img src="https://www.canva.com/design/DAG3Z1juQvo/nqtJp6lvin_N-R5D9PmpMg/edit?utm_content=DAG3Z1juQvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Abdallah AMR – Data Analyst" width="100%">
+</p>
+
+# 👋 Hi, I'm Abdallah AMR
+
+Operations Research graduate from **Cairo University**, curious about how data reveals patterns and supports smarter decisions.  
+Each project adds something new — a technique, a perspective, or a clearer way to communicate insights.
 
 ---
 
-⚙️ Tech Stack -
+### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -13,21 +18,21 @@ Each project adds something new: a technique, a perspective, or a clearer way to
 
 ---
 
-📊 Projects
+### 📊 Projects 
 - Customer Behavior Analysis – Python · SQL · Power BI
 - Hotel Revenue Analysis – Excel · SQL · Power BI
 - Snapchat Reviews Analysis – Excel · SQL · Power BI
 
 ---
 
-🧠 Interests
+### 🧠 Interests
 Turning raw data into clear, actionable stories that help people make better decisions.
 
 ---
 
-📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-amr-742070319)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amrosyphotos1@gmail.com)
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 

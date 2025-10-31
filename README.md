@@ -5,7 +5,7 @@ Each project adds something new: a technique, a perspective, or a clearer way to
 
 ---
 
-⚙️ Tech Stack
+⚙️ Tech Stack -
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)

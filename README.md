@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://www.canva.com/design/DAG3Z1juQvo/nqtJp6lvin_N-R5D9PmpMg/edit?utm_content=DAG3Z1juQvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Abdallah AMR – Data Analyst" width="100%">
-</p>
-
 # 👋 Hi, I'm Abdallah AMR
 
 Operations Research graduate from **Cairo University**, curious about how data reveals patterns and supports smarter decisions.  

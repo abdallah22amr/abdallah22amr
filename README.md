@@ -28,7 +28,7 @@ Turning raw data into clear, actionable stories that help people make better dec
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-amr-742070319)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](amrosyphotos1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](abdallahamrmo@gmail.com)
 
 ---
 

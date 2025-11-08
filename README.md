@@ -3,10 +3,6 @@
 Operations Research graduate from **Cairo University**, curious about how data reveals patterns and supports smarter decisions.  
 Each project adds something new: a technique, a perspective, or a clearer way to communicate insights.
 
-### 📫 Hire me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-amr-742070319)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](abdallahamrmo@gmail.com)
-
 ---
 
 ### ⚙️ Tech Stack
@@ -27,6 +23,12 @@ Each project adds something new: a technique, a perspective, or a clearer way to
 
 ### 🧠 Interests
 Turning raw data into clear, actionable stories that help people make better decisions.
+
+---
+
+### 📫 Hire me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-amr-742070319)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](abdallahamrmo@gmail.com)
 
 ---
 

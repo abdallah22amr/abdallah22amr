@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdallah AMR - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-amr-742070319) | [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](abdallahamrmo@gmail.com)
+# 👋 Hi, I'm Abdallah AMR  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-amr-742070319) [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](abdallahamrmo@gmail.com)
 
 Operations Research graduate from **Cairo University**, curious about how data reveals patterns and supports smarter decisions.  
 Each project adds something new: a technique, a perspective, or a clearer way to communicate insights.

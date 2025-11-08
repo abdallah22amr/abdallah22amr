@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdallah AMR
 
 Operations Research graduate from **Cairo University**, curious about how data reveals patterns and supports smarter decisions.  
-Each project adds something new — a technique, a perspective, or a clearer way to communicate insights.
+Each project adds something new: a technique, a perspective, or a clearer way to communicate insights.
 
 ---
 

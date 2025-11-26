@@ -14,6 +14,8 @@ Each project adds something new: a technique, a perspective, or a clearer way to
 ---
 
 ### 📊 Projects 
+- Tata Data Visualisation Job Simulation | Excel· Power BI
+- Deloitte Australia Data Analytics Job Simulation | Excel · Power Query · Power BI
 - Customer Behavior Analysis – Python · SQL · Power BI
 - Hotel Revenue Analysis – Excel · SQL · Power BI
 - Snapchat Reviews Analysis – Excel · SQL · Power BI
